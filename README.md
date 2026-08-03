@@ -30,7 +30,7 @@ A scanner that evaluates how readable a website is to AI agents and AI search, r
 **Languages:** Python · TypeScript · JavaScript · C/C++ · C# · SQL
 **Web:** Next.js · React · Tailwind CSS · Supabase · Vercel
 **AI tooling:** Claude Code · Anthropic API · DeepSeek API
-**Engineering & PM:** MS Project · Jira · Confluence · Smartsheet · Siemens NX · FMEA
+**Engineering & PM:** MS Project · Smartsheet · Wrike · Jira · Confluence ·  Visual Studio · VS-Code · Team Center · Siemens NX
 
 ---
 
