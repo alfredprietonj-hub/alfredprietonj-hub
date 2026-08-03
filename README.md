@@ -17,7 +17,7 @@ An interactive e-learning platform that teaches technical subjects through struc
 
 Built solo — from schema design and row-level security policies through OAuth flows, content rendering, and CI/CD deployment.
 
-### [SQLTranslate](https://www.sqltranslate.makerlabssv.com/) — SQL dialect converter
+### [SQLTranslate](https://sqltranslate.makerlabssv.com/) — SQL dialect converter
 Converts SQL queries between MySQL, PostgreSQL, SQLite, SQL Server, and Oracle. Built to remove a recurring friction point when moving between database environments.
 
 ### AgentReady — *in development*
